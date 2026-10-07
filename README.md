@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://vercel.app" width="100%" alt="Estadísticas de carlossanB" />
 </p>
 
 <p align="center">
-  <a href="https://git.io"><img src="https://demolab.com¡Bienvenido+a+mi+perfil!;Tecnólogo+en+ADSO;Backend+Developer" alt="Typing SVG" /></a>
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Ilustración animada -->
+      <!-- GIF animado directo compatible con GitHub -->
       <img src="https://giphy.com" width="160px" alt="Developer Animation" />
     </td>
   </tr>
@@ -32,7 +32,7 @@
 ## 🛠️ Tecnologías y Herramientas (Tech Stack)
 
 <p align="left">
-  <!-- Modifica los iconos añadiendo los que usas en el parámetro ?i= -->
+  <!-- Puedes agregar o quitar tecnologías editando el parámetro ?i= separados por comas -->
   <img src="https://skillicons.dev" alt="My Skills" />
 </p>
 
@@ -41,24 +41,22 @@
 ## 📊 Estadísticas Dinámicas (Dark Premium)
 
 <p align="center">
-  <img src="https://vercel.app" height="180px"/>
+  <img src="https://vercel.app" height="180px" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://vercel.app" height="180px"/>
+  <img src="https://vercel.app" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" width="100%" />
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📬 Hablemos
 <p align="left">
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="mailto:tu-correo@ejemplo.com">
+
+  <!-- REEMPLAZA 'tu-correo@ejemplo.com' por tu dirección de correo real -->
+  <a href="c4798175@gmail.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
 </p>
