@@ -1,51 +1,65 @@
-# ⚡ ¡Bienvenido a mi perfil!
-### Tecnólogo en ADSO | Backend Developer
+<!-- Banner de Bienvenida Cyberpunk -->
+<p align="center">
+  <img src="https://vercel.app•%20Backend&sideTextSize=20&animation=fadeIn" width="100%" alt="Carlos Buitron Banner" />
+</p>
+
+## ⚡ El Arte del Código Invisible
+
+> *“Automatizar lo repetitivo, estructurar lo complejo y optimizar lo existente.”*
+
+Soy un desarrollador enfocado en **Arquitecturas Backend Modernas**, diseño eficiente de bases de datos y la creación de flujos automatizados de fin a fin. Como Tecnólogo en Análisis y Desarrollo de Software (**SENA**), mi objetivo es crear lógica sólida y limpia que soporte aplicaciones escalables del mundo real.
 
 ---
 
-## 🚀 Sobre Mí
+### 🔮 Stack de Especialización
+
+<p align="left">
+  <!-- Backend Core -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br />
+  <!-- Data & DevOps -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br />
+  <!-- Frontend Adicional -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 Desempeño y Métricas de Desarrollo
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p>¡Hola! Soy un apasionado del desarrollo de software enfocado en la creación de aplicaciones eficientes, escalables y con un diseño de código impecable.</p>
-      <ul>
-        <li>🎓 <strong>Educación:</strong> Tecnólogo en Análisis y Desarrollo de Software (ADSO) — <strong>SENA</strong>.</li>
-        <li>⚙️ <strong>Enfoque actual:</strong> Construcción de arquitecturas backend modernas y automatización de flujos de trabajo.</li>
-        <li>💡 <strong>Filosofía:</strong> Automatizar lo repetitivo y optimizar lo existente.</li>
-      </ul>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" height="160px" alt="Métricas Generales" />
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Ilustración de desarrollador integrada de un repositorio seguro -->
-      <img src="https://githubusercontent.com" width="180px" alt="Developer Animation" />
+    <td width="50%" align="center">
+      <img src="https://vercel.app" height="160px" alt="Lenguajes Principales" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas (Tech Stack)
-
-<p align="left">
-  <img src="https://skillicons.dev" alt="My Skills" />
-</p>
-
----
-
-## 📊 Estadísticas Dinámicas (Dark Premium)
-
-<p align="center">
-  <img src="https://vercel.app" height="180px" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://vercel.app" height="180px" alt="Top Languages" />
-</p>
+### 🛠️ Líneas de Enfoque Actual
+- **Diseño de APIs RESTful:** Estructuración de endpoints rápidos, seguros y bien documentados.
+- **Flujos CI/CD & Automatización:** Despliegues limpios utilizando contenedores Docker.
+- **Modelado de Datos:** Optimización de consultas complejas tanto en entornos SQL como NoSQL.
 
 ---
 
-## 📬 Hablemos
+### 🌐 Canales de Conexión
+
 <p align="left">
- 
-  <!-- REEMPLAZA 'tu-correo@ejemplo.com' por tu dirección de correo real -->
+  <!-- REEMPLAZA EL TELÉFONO Y EL CORREO CON TUS DATOS REALES -->
+  
   <a href="c4798175@gmail.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
