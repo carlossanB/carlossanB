@@ -15,10 +15,10 @@ Analista y Desarrollador de Software enfocado en construir soluciones backend y 
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Frontend** | ![React](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Backend** | ![NestJS](https://shields.io) ![Python](https://shields.io) ![Spring](https://shields.io) |
-| **Bases de Datos** | ![MongoDB](https://shields.io) |
-| **DevOps & Herramientas**| ![Docker](https://shields.io) ![n8n](https://shields.io) ![Git](https://shields.io) |
+| **Frontend** | **React** • HTML5 • CSS3 |
+| **Backend** | **NestJS** • Python • Spring Boot |
+| **Bases de Datos** | **MongoDB** |
+| **DevOps & Herramientas** | **Docker** • n8n • Git |
 
 ---
 
@@ -26,14 +26,11 @@ Analista y Desarrollador de Software enfocado en construir soluciones backend y 
 
 Aquí puedes ver un resumen de mi actividad en la plataforma:
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de carlossanB" width="400"/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="300"/>
-</p>
+- 💻 **Total de repositorios públicos:** 24
+- 🛠️ **Enfoque principal:** Desarrollo Fullstack (Backend & Frontend)
 
 ---
 
 ### 📫 Conéctate conmigo
-- 💼 [LinkedIn](https://linkedin.com) *(Puedes cambiar esto por tu enlace real)*
+- 💼 [LinkedIn](https://linkedin.com) *(Cambia esto por tu enlace real)*
 - 📧 Tu correo de contacto aquí
-
