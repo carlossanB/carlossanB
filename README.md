@@ -32,5 +32,4 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 ---
 
 ### 📫 Conéctate conmigo
-- 💼 [LinkedIn](https://linkedin.com) *(Cambia esto por tu enlace real)*
-- 📧 Tu correo de contacto aquí
+- 📧 c4798175@gmail.com
