@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Carlos Buitron - Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0D14"/>
+      <stop offset="0.6" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#150A1F"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset="1" stop-color="#FF2E97"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00F0FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <polygon points="860,0 1280,0 1280,320 760,320" fill="#FF2E97" fill-opacity="0.05"/>
+  <polygon points="1000,0 1280,0 1280,200" fill="#00F0FF" fill-opacity="0.06"/>
+  <line x1="860" y1="0" x2="760" y2="320" stroke="url(#neon)" stroke-width="2" stroke-opacity="0.7"/>
+
+  <circle cx="40" cy="36" r="6" fill="#FF2E97"/>
+  <circle cx="62" cy="36" r="6" fill="#FFD43B"/>
+  <circle cx="84" cy="36" r="6" fill="#00F0FF"/>
+  <text x="110" y="41" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#6E7681">~/carlossanB/backend</text>
+
+  <text x="60" y="165" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="3" fill="url(#neon)" filter="url(#glow)">CARLOS BUITRON</text>
+
+  <text x="64" y="212" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#C9D1D9">&gt; Backend Developer <tspan fill="#FF2E97">//</tspan> Arquitecturas Modernas</text>
+  <text x="64" y="250" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#6E7681">Tecnólogo ADSO · SENA <tspan fill="#00F0FF">|</tspan> Node.js · PostgreSQL · Docker</text>
+
+  <rect x="64" y="272" width="14" height="4" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="314" width="1280" height="6" fill="url(#neon)"/>
+</svg>
