@@ -59,8 +59,11 @@ Soy un desarrollador enfocado en **Arquitecturas Backend Modernas**, diseño efi
 
 <p align="left">
   <!-- REEMPLAZA EL TELÉFONO Y EL CORREO CON TUS DATOS REALES -->
-  
-  <a href="c4798175@gmail.com">
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
 </p>
